@@ -1,0 +1,725 @@
+{
+    "quiz":[
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who was the British professional wrestler Shirley Crabtree better known as?",
+            "correct_answer": "Big Daddy",
+            "incorrect_answers": [
+              "Giant Haystacks",
+              "Kendo Nagasaki",
+              "Masambula"
+            ]
+          },
+          {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In a game of snooker, what colour ball is worth 3 points?",
+            "correct_answer": "Green",
+            "incorrect_answers": [
+              "Yellow",
+              "Brown",
+              "Blue"
+            ]
+          },
+          {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The F1 season of 1994 is remembered for what tragic event?",
+            "correct_answer": "Death of Ayrton Senna (San Marino)",
+            "incorrect_answers": [
+              "The Showdown (Australia)",
+              "Verstappen on Fire (Germany)",
+              "Schumacher&#039;s Ban (Britain)"
+            ]
+          },
+          {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which country has hosted the 2018 FIFA World Cup?",
+            "correct_answer": "Russia",
+            "incorrect_answers": [
+              "Germany",
+              "United States",
+              "Saudi Arabia"
+            ]
+          },
+          {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which driver has been the Formula 1 world champion for a record 7 times?",
+            "correct_answer": "Michael Schumacher",
+            "incorrect_answers": [
+              "Ayrton Senna",
+              "Fernando Alonso",
+              "Jim Clark"
+            ]
+          },
+          {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was the final score of the Germany vs. Brazil 2014 FIFA World Cup match?",
+            "correct_answer": "7 - 1",
+            "incorrect_answers": [
+              "0 - 1",
+              "3 - 4",
+              "16 - 0"
+            ]
+          },
+          {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which Italian footballer told Neuer where he&#039;s putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?",
+            "correct_answer": "Pelle",
+            "incorrect_answers": [
+              "Insigne",
+              "Barzagli",
+              "Giaccherini"
+            ]
+          },
+          {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which female player won the gold medal of table tennis singles in 2016 Olympics Games?",
+            "correct_answer": "DING Ning (China)",
+            "incorrect_answers": [
+              "LI Xiaoxia (China)",
+              "Ai FUKUHARA (Japan)",
+              "Song KIM (North Korea)"
+            ]
+          },
+          {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which soccer team won the Copa Am&eacute;rica 2015 Championship ?",
+            "correct_answer": "Chile",
+            "incorrect_answers": [
+              "Argentina",
+              "Brazil",
+              "Paraguay"
+            ]
+          },
+          {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the oldest team in the NFL?",
+            "correct_answer": "Arizona Cardinals",
+            "incorrect_answers": [
+              "Chicago Bears",
+              "Green Bay Packers",
+              "New York Giants"
+            ]
+          },
+          {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who won the 2015 College Football Playoff (CFP) National Championship? ",
+            "correct_answer": "Ohio State Buckeyes",
+            "incorrect_answers": [
+              "Alabama Crimson Tide",
+              "Clemson Tigers",
+              "Wisconsin Badgers"
+            ]
+          },
+          {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What team did England beat to win in the 1966 World Cup final?",
+            "correct_answer": "West Germany",
+            "incorrect_answers": [
+              "Soviet Union",
+              "Portugal",
+              "Brazil"
+            ]
+          },
+          {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "How many French Open&#039;s did Bj&ouml;rn Borg win?",
+            "correct_answer": "6",
+            "incorrect_answers": [
+              "4",
+              "9",
+              "2"
+            ]
+          },
+          {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "When was the FC Schalke 04 founded?",
+            "correct_answer": "1904",
+            "incorrect_answers": [
+              "1909",
+              "2008",
+              "1999"
+            ]
+          },
+          {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which country will host the 2022 FIFA World Cup?",
+            "correct_answer": "Qatar",
+            "incorrect_answers": [
+              "USA",
+              "Japan",
+              "Switzerland"
+            ]
+          },
+          {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who won the 2017 Formula One World Drivers&#039; Championship?",
+            "correct_answer": "Lewis Hamilton",
+            "incorrect_answers": [
+              "Sebastian Vettel",
+              "Nico Rosberg",
+              "Max Verstappen"
+            ]
+          },
+          {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which Formula 1 driver switched teams in the middle of the 2017 season?",
+            "correct_answer": "Carlos Sainz Jr.",
+            "incorrect_answers": [
+              "Daniil Kvyat",
+              "Jolyon Palmer",
+              "Rio Haryanto"
+            ]
+          },
+          {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is Tiger Woods&#039; all-time best career golf-score?",
+            "correct_answer": "61",
+            "incorrect_answers": [
+              "65",
+              "63",
+              "67"
+            ]
+          },
+          {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which NBA player has the most games played over the course of their career?",
+            "correct_answer": "Robert Parish",
+            "incorrect_answers": [
+              "Kareem Abdul-Jabbar",
+              "Kevin Garnett",
+              "Kobe Bryant"
+            ]
+          },
+          {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who was the top scorer of the 2014 FIFA World Cup?",
+            "correct_answer": "James Rodr&iacute;guez",
+            "incorrect_answers": [
+              "Thomas M&uuml;ller",
+              "Lionel Messi",
+              "Neymar"
+            ]
+          },
+          {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In a standard set of playing cards, which is the only king without a moustache?",
+            "correct_answer": "Hearts",
+            "incorrect_answers": [
+              "Spades",
+              "Diamonds",
+              "Clubs"
+            ]
+          },
+          {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What name represents the letter &quot;M&quot; in the NATO phonetic alphabet?",
+            "correct_answer": "Mike",
+            "incorrect_answers": [
+              "Matthew",
+              "Mark",
+              "Max"
+            ]
+          },
+          {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In past times, what would a gentleman keep in his fob pocket?",
+            "correct_answer": "Watch",
+            "incorrect_answers": [
+              "Money",
+              "Keys",
+              "Notebook"
+            ]
+          },
+          {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Scotch whisky and Drambuie make up which cocktail?",
+            "correct_answer": "Rusty Nail",
+            "incorrect_answers": [
+              "Screwdriver",
+              "Sex on the Beach",
+              "Manhattan"
+            ]
+          },
+          {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "The words &quot;bungalow&quot; and &quot;shampoo&quot; originate from the languages of which country?",
+            "correct_answer": "India",
+            "incorrect_answers": [
+              "Papua New Guinea",
+              "Ethiopia",
+              "China"
+            ]
+          },
+          {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the name of the Jewish New Year?",
+            "correct_answer": "Rosh Hashanah",
+            "incorrect_answers": [
+              "Elul",
+              "New Year",
+              "Succoss"
+            ]
+          },
+          {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these companies does NOT manufacture automobiles?",
+            "correct_answer": "Ducati",
+            "incorrect_answers": [
+              "Nissan",
+              "GMC",
+              "Fiat"
+            ]
+          },
+          {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Sciophobia is the fear of what?",
+            "correct_answer": "Shadows",
+            "incorrect_answers": [
+              "Eating",
+              "Bright lights",
+              "Transportation"
+            ]
+          },
+          {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of these banks are NOT authorized to issue currency notes in Hong Kong?",
+            "correct_answer": "OCBC",
+            "incorrect_answers": [
+              "HSBC",
+              "Standard Chartered",
+              "Bank of China"
+            ]
+          },
+          {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
+            "correct_answer": "Spruce Goose",
+            "incorrect_answers": [
+              "Noah&#039;s Ark",
+              "Fat Man",
+              "Trojan Horse"
+            ]
+          },
+          {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What year was Apple Inc. founded?",
+            "correct_answer": "1976",
+            "incorrect_answers": [
+              "1978",
+              "1980",
+              "1974"
+            ]
+          },
+          {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In what year was McDonald&#039;s founded?",
+            "correct_answer": "1955",
+            "incorrect_answers": [
+              "1964",
+              "1951",
+              "1947"
+            ]
+          },
+          {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What do the letters of the fast food chain KFC stand for?",
+            "correct_answer": "Kentucky Fried Chicken",
+            "incorrect_answers": [
+              "Kentucky Fresh Cheese",
+              "Kibbled Freaky Cow",
+              "Kiwi Food Cut"
+            ]
+          },
+          {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is a Burgee?",
+            "correct_answer": "A flag",
+            "incorrect_answers": [
+              "A rope",
+              "A window",
+              "A type of food"
+            ]
+          },
+          {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "The Quadrangularis Reversum is best described as which of the following?",
+            "correct_answer": "A percussion instrument",
+            "incorrect_answers": [
+              "A building in Oxford University",
+              "A chess move",
+              "A geometric theorem"
+            ]
+          },
+          {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the currency of Poland?",
+            "correct_answer": "Złoty",
+            "incorrect_answers": [
+              "Ruble",
+              "Euro",
+              "Krone"
+            ]
+          },
+          {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "The word &quot;abulia&quot; means which of the following?",
+            "correct_answer": "The inability to make decisions",
+            "incorrect_answers": [
+              "The inability to stand up",
+              "The inability to concentrate on anything",
+              "A feverish desire to rip one&#039;s clothes off"
+            ]
+          },
+          {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following blood component forms a plug at the site of injuries?",
+            "correct_answer": "Platelets",
+            "incorrect_answers": [
+              "Red blood cells",
+              "White blood cells",
+              "Blood plasma"
+            ]
+          },
+          {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The architect known as Le Corbusier was an important figure in what style of architecture?",
+            "correct_answer": "Modernism",
+            "incorrect_answers": [
+              "Neoclassical",
+              "Baroque",
+              "Gothic Revival"
+            ]
+          },
+          {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the official language of Brazil?",
+            "correct_answer": "Portugese",
+            "incorrect_answers": [
+              "Brazilian",
+              "Spanish",
+              "English"
+            ]
+          },
+          {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "On a London Underground map, what colour is the Circle Line?",
+            "correct_answer": "Yellow",
+            "incorrect_answers": [
+              "Red",
+              "Blue",
+              "Green"
+            ]
+          },
+          {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which country does Austria not border?",
+            "correct_answer": "France",
+            "incorrect_answers": [
+              "Slovenia",
+              "Switzerland",
+              "Slovakia"
+            ]
+          },
+          {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "All of the following are classified as Finno-Ugric languages EXCEPT:",
+            "correct_answer": "Samoyedic",
+            "incorrect_answers": [
+              "Hungarian",
+              "Finnish",
+              "Estonian"
+            ]
+          },
+          {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The land of Gotland is located in which European country?",
+            "correct_answer": "Sweden",
+            "incorrect_answers": [
+              "Denmark",
+              "Norway",
+              "Germany"
+            ]
+          },
+          {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of the following countries banned the use of personal genetic ancestry tests?",
+            "correct_answer": "Germany",
+            "incorrect_answers": [
+              "Austria",
+              "Canada",
+              "Sweden"
+            ]
+          },
+          {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The Japanese district Akihabara is also known by what nickname?",
+            "correct_answer": "Electric Town",
+            "incorrect_answers": [
+              "Moon Walk River",
+              "Otaku Central ",
+              "Big Eyes"
+            ]
+          },
+          {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the capital of the US state Nevada?",
+            "correct_answer": "Carson City",
+            "incorrect_answers": [
+              "Las Vegas",
+              "Henderson",
+              "Reno"
+            ]
+          },
+          {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which UK country features a dragon on their flag?",
+            "correct_answer": "Wales",
+            "incorrect_answers": [
+              "England",
+              "North Ireland",
+              "Scotland"
+            ]
+          },
+          {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "The Hunua Ranges is located in...",
+            "correct_answer": "New Zealand",
+            "incorrect_answers": [
+              "Nepal",
+              "China",
+              "Mexico"
+            ]
+          },
+          {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Where is the world&#039;s oldest still operational space launch facility located?",
+            "correct_answer": "Kazakhstan",
+            "incorrect_answers": [
+              "Russia",
+              "Iran",
+              "United States"
+            ]
+          },
+          {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the official German name of the Swiss Federal Railways?",
+            "correct_answer": "Schweizerische Bundesbahnen",
+            "incorrect_answers": [
+              "Schweizerische Nationalbahnen",
+              "Bundesbahnen der Schweiz",
+              "Schweizerische Staatsbahnen"
+            ]
+          },
+          {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What city is known as the Rose Capital of the World?",
+            "correct_answer": "Tyler, Texas",
+            "incorrect_answers": [
+              "San Diego, California",
+              "Miami, Florida",
+              "Anaheim, California"
+            ]
+          },
+          {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the capital of British Columbia, Canada?",
+            "correct_answer": "Victoria",
+            "incorrect_answers": [
+              "Vancouver",
+              "Hope",
+              "Kelowna"
+            ]
+          },
+          {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the second-largest city in Lithuania?",
+            "correct_answer": "Kaunas",
+            "incorrect_answers": [
+              "Panevėžys",
+              "Vilnius",
+              "Klaipėda"
+            ]
+          },
+          {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the capital of Belarus?",
+            "correct_answer": "Minsk",
+            "incorrect_answers": [
+              "Warsaw",
+              "Kiev",
+              "Vilnius"
+            ]
+          },
+          {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the land connecting North America and South America?",
+            "correct_answer": "Isthmus of Panama",
+            "incorrect_answers": [
+              "Isthmus of Suez",
+              "Urals",
+              "Australasia"
+            ]
+          },
+          {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which country was NOT part of the Soviet Union?",
+            "correct_answer": "Romania",
+            "incorrect_answers": [
+              "Turkmenistan",
+              "Belarus",
+              "Tajikistan"
+            ]
+          },
+          {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What mountain range lines the border between Spain and France?",
+            "correct_answer": "Pyrenees",
+            "incorrect_answers": [
+              "Alps",
+              "Carpathians",
+              "Urals"
+            ]
+          },
+          {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Lake Titicaca is located between which two nations?",
+            "correct_answer": "Peru and Bolivia",
+            "incorrect_answers": [
+              "Kenya and Uganda",
+              "Mexico and the United States",
+              "India and Bangladesh"
+            ]
+          },
+          {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Greenland is a part of which kingdom?",
+            "correct_answer": "Denmark",
+            "incorrect_answers": [
+              "Sweden",
+              "Norway",
+              "United Kingdom"
+            ]
+          }
+
+    ]
+}
